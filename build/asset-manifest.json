@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.b0709f9d.js",
+    "static/js/787.1280717d.chunk.js": "/static/js/787.1280717d.chunk.js",
+    "static/media/Silver Lining-logos_white.png": "/static/media/Silver Lining-logos_white.a0235b5aa0e3fbd03db9.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.b0709f9d.js.map": "/static/js/main.b0709f9d.js.map",
+    "787.1280717d.chunk.js.map": "/static/js/787.1280717d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b0709f9d.js"
+  ]
+}
